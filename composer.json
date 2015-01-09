@@ -13,6 +13,9 @@
     "require": {
         "php": ">=5.2"
     },
+    "autoload": {
+        "classmap": [ "XMPPHP/" ]
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
